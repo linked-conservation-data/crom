@@ -376,7 +376,7 @@ identity_instances = {
 	"gelatin silver print": {"parent": Material, "id": "300128695", "label": "gelatin silver print"},
 	"silver": {"parent": Material, "id": "300011029", "label": "silver"},
 	"synthetic": {"parent": Type, "id": "xxx", "label": "Synthetic Material"},
-	"hazardous": {"parent": Type, "id": "300138222", "label": "Hazardous Material"},
+	"hazardous": {"parent": Material, "id": "300138222", "label": "Hazardous Material"},
 
 	# Measurement Units - lengths, weights, durations
 	"lignes": {"parent": MeasurementUnit, "id": "300435501", "label": "Paris lines"},
